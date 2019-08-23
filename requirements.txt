@@ -1,0 +1,9 @@
+discord
+asyncio
+pymoe
+pip
+datetime
+random
+os
+sys
+logging
